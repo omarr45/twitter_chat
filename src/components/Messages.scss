@@ -1,0 +1,38 @@
+.requests {
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--blue-gray);
+  cursor: pointer;
+
+  &:hover {
+    background-color: #192734;
+  }
+}
+
+.search_for_people {
+  padding: 1em;
+  border-bottom: 1px solid var(--blue-gray);
+
+  input {
+    width: 100%;
+    background-color: transparent;
+    border-radius: 2rem;
+    border: 2px solid var(--blue-gray);
+    color: white;
+    font-family: inherit;
+    text-align: center;
+
+    &:focus {
+      outline: none;
+      border: 2px solid var(--light-blue);
+    }
+
+    &::placeholder {
+      color: var(--blue-gray-secondary);
+      opacity: 0.8;
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,41 @@
+.send_message {
+  padding: 0.6em;
+  display: flex;
+  gap: 1em;
+
+  img {
+    width: 20px;
+    cursor: pointer;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+
+  .send_wrapper {
+    width: 100%;
+    position: relative;
+    display: flex;
+
+    input {
+      width: 100%;
+      background-color: transparent;
+      border: 2px solid var(--blue-gray);
+      border-radius: 2rem;
+      padding: 0 1em;
+      font-family: inherit;
+      color: white;
+
+      &:focus {
+        outline: none;
+        border: 2px solid var(--light-blue);
+      }
+    }
+
+    .emoji {
+      position: absolute;
+      right: 0.6em;
+      top: 0.6rem;
+    }
+  }
+}
