@@ -3,7 +3,7 @@
 ### You can check it [here](https://twitterchat45.web.app/)
 
 ## Screenshots
-![Web capture_1-9-2021_194722_localhost](https://user-images.githubusercontent.com/58887202/131719129-1f260e8b-426d-4d7a-a50d-a550652c98ec.jpeg)
+![2021-09-01 (6)](https://user-images.githubusercontent.com/58887202/131723566-36488eb0-8197-468b-bbe5-99aa7450848d.png)
 
 
 ## License
