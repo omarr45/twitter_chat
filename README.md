@@ -1,4 +1,4 @@
-# Twitter Clone using React Js
+# Twitter Chat Clone using React Js and ASS
 
 ### You can check it [here](https://twitterchat45.web.app/)
 
